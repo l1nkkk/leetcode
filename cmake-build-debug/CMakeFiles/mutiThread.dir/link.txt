@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/mutiThread.dir/multiThread/main.cpp.o -o mutiThread 

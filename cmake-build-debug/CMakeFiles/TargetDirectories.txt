@@ -1,0 +1,4 @@
+/home/l1nkkk/project/mime/leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/l1nkkk/project/mime/leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/l1nkkk/project/mime/leetcode/cmake-build-debug/CMakeFiles/multiThread.dir
+/home/l1nkkk/project/mime/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir

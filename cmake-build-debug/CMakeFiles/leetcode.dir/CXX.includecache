@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/l1nkkk/project/mime/leetcode/offer2/OfferII082.含有重复元素集合的组合.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+unordered_map
+-
+
